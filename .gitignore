@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+cache/*.db
+data/samples/*.pcap
+data/samples/*.pcapng
+.pytest_cache/
+.streamlit/

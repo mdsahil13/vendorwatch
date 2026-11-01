@@ -1,0 +1,122 @@
+{
+  "google-analytics.com": {
+    "company": "Google Analytics",
+    "category": "analytics"
+  },
+  "app-measurement.com": {
+    "company": "Google Firebase Analytics",
+    "category": "analytics"
+  },
+  "firebaseio.com": {
+    "company": "Google Firebase",
+    "category": "analytics"
+  },
+  "googleapis.com": {
+    "company": "Google",
+    "category": "cdn"
+  },
+  "googlesyndication.com": {
+    "company": "Google Ads",
+    "category": "ads"
+  },
+  "doubleclick.net": {
+    "company": "Google Marketing Platform",
+    "category": "ads"
+  },
+  "facebook.com": {
+    "company": "Meta Platforms",
+    "category": "ads"
+  },
+  "facebook.net": {
+    "company": "Meta Platforms",
+    "category": "analytics"
+  },
+  "appsflyer.com": {
+    "company": "AppsFlyer",
+    "category": "analytics"
+  },
+  "adjust.com": {
+    "company": "Adjust",
+    "category": "analytics"
+  },
+  "branch.io": {
+    "company": "Branch Metrics",
+    "category": "analytics"
+  },
+  "mixpanel.com": {
+    "company": "Mixpanel",
+    "category": "analytics"
+  },
+  "amplitude.com": {
+    "company": "Amplitude",
+    "category": "analytics"
+  },
+  "sentry.io": {
+    "company": "Sentry",
+    "category": "crash"
+  },
+  "unity3d.com": {
+    "company": "Unity",
+    "category": "ads"
+  },
+  "applovin.com": {
+    "company": "AppLovin",
+    "category": "ads"
+  },
+  "stripe.com": {
+    "company": "Stripe",
+    "category": "payment"
+  },
+  "razorpay.com": {
+    "company": "Razorpay",
+    "category": "payment"
+  },
+  "cloudfront.net": {
+    "company": "Amazon CloudFront",
+    "category": "cdn"
+  },
+  "akamai.net": {
+    "company": "Akamai",
+    "category": "cdn"
+  },
+  "akamaized.net": {
+    "company": "Akamai",
+    "category": "cdn"
+  },
+  "cloudflare.com": {
+    "company": "Cloudflare",
+    "category": "cdn"
+  },
+  "fastly.net": {
+    "company": "Fastly",
+    "category": "cdn"
+  },
+  "segment.io": {
+    "company": "Twilio Segment",
+    "category": "analytics"
+  },
+  "newrelic.com": {
+    "company": "New Relic",
+    "category": "analytics"
+  },
+  "bugsnag.com": {
+    "company": "Bugsnag",
+    "category": "crash"
+  },
+  "datadoghq.com": {
+    "company": "Datadog",
+    "category": "analytics"
+  },
+  "launchdarkly.com": {
+    "company": "LaunchDarkly",
+    "category": "analytics"
+  },
+  "intercom.io": {
+    "company": "Intercom",
+    "category": "analytics"
+  },
+  "pinterest.com": {
+    "company": "Pinterest",
+    "category": "ads"
+  }
+}

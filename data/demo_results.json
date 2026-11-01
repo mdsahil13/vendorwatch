@@ -1,0 +1,206 @@
+[
+  {
+    "registrable": "app-measurement.com",
+    "company": "Google Firebase Analytics",
+    "category": "analytics",
+    "country": "United States",
+    "policy_url": "https://policies.google.com/privacy",
+    "sells_or_shares_data": false,
+    "evidence": "Google does not sell your personal information.",
+    "evidence_verified": true,
+    "risk": "low",
+    "reason": "The sample policy statement says personal information is not sold.",
+    "method": "fetch",
+    "hits": 18,
+    "domains_seen": [
+      "app-measurement.com"
+    ]
+  },
+  {
+    "registrable": "sdk.appsflyer.com",
+    "company": "AppsFlyer",
+    "category": "analytics",
+    "country": "Israel",
+    "policy_url": "https://www.appsflyer.com/legal/privacy-policy/",
+    "sells_or_shares_data": null,
+    "evidence": null,
+    "evidence_verified": false,
+    "risk": "medium",
+    "reason": "Sample result: the policy language needs contextual review.",
+    "method": "fetch",
+    "hits": 13,
+    "domains_seen": [
+      "sdk.appsflyer.com"
+    ]
+  },
+  {
+    "registrable": "graph.facebook.com",
+    "company": "Meta Platforms",
+    "category": "ads",
+    "country": "United States",
+    "policy_url": "https://www.facebook.com/privacy/policy/",
+    "sells_or_shares_data": true,
+    "evidence": "We share information with third-party partners.",
+    "evidence_verified": true,
+    "risk": "high",
+    "reason": "Sample verdict indicates sharing; review the linked policy in context.",
+    "method": "fetch",
+    "hits": 12,
+    "domains_seen": [
+      "graph.facebook.com"
+    ]
+  },
+  {
+    "registrable": "doubleclick.net",
+    "company": "Google Marketing Platform",
+    "category": "ads",
+    "country": "United States",
+    "policy_url": "https://policies.google.com/privacy",
+    "sells_or_shares_data": false,
+    "evidence": null,
+    "evidence_verified": false,
+    "risk": "low",
+    "reason": "Sample result; no specific verified sentence is displayed.",
+    "method": "fetch",
+    "hits": 9,
+    "domains_seen": [
+      "doubleclick.net"
+    ]
+  },
+  {
+    "registrable": "sentry.io",
+    "company": "Sentry",
+    "category": "crash",
+    "country": "United States",
+    "policy_url": "https://sentry.io/privacy/",
+    "sells_or_shares_data": null,
+    "evidence": null,
+    "evidence_verified": false,
+    "risk": "medium",
+    "reason": "Policy wording is not conclusive in this illustrative sample.",
+    "method": "fetch",
+    "hits": 8,
+    "domains_seen": [
+      "sentry.io"
+    ]
+  },
+  {
+    "registrable": "mixpanel.com",
+    "company": "Mixpanel",
+    "category": "analytics",
+    "country": "United States",
+    "policy_url": "https://mixpanel.com/legal/privacy-policy/",
+    "sells_or_shares_data": null,
+    "evidence": null,
+    "evidence_verified": false,
+    "risk": "unknown",
+    "reason": "Sample data: privacy-policy conclusion is unavailable.",
+    "method": "none",
+    "hits": 6,
+    "domains_seen": [
+      "api.mixpanel.com"
+    ]
+  },
+  {
+    "registrable": "branch.io",
+    "company": "Branch Metrics",
+    "category": "analytics",
+    "country": "United States",
+    "policy_url": "https://www.branch.io/policies/",
+    "sells_or_shares_data": null,
+    "evidence": null,
+    "evidence_verified": false,
+    "risk": "medium",
+    "reason": "Sample policy review requires a human to inspect applicable terms.",
+    "method": "fetch",
+    "hits": 5,
+    "domains_seen": [
+      "api2.branch.io"
+    ]
+  },
+  {
+    "registrable": "amplitude.com",
+    "company": "Amplitude",
+    "category": "analytics",
+    "country": "United States",
+    "policy_url": "https://amplitude.com/privacy",
+    "sells_or_shares_data": false,
+    "evidence": null,
+    "evidence_verified": false,
+    "risk": "low",
+    "reason": "Illustrative sample verdict; no quote included.",
+    "method": "fetch",
+    "hits": 4,
+    "domains_seen": [
+      "api.amplitude.com"
+    ]
+  },
+  {
+    "registrable": "appsflyer.com",
+    "company": "AppsFlyer",
+    "category": "analytics",
+    "country": "Israel",
+    "policy_url": "https://www.appsflyer.com/legal/privacy-policy/",
+    "sells_or_shares_data": null,
+    "evidence": null,
+    "evidence_verified": false,
+    "risk": "unknown",
+    "reason": "Insufficient policy evidence in this demo record.",
+    "method": "none",
+    "hits": 3,
+    "domains_seen": [
+      "events.appsflyer.com"
+    ]
+  },
+  {
+    "registrable": "cloudfront.net",
+    "company": "Amazon CloudFront",
+    "category": "cdn",
+    "country": "United States",
+    "policy_url": "https://aws.amazon.com/privacy/",
+    "sells_or_shares_data": null,
+    "evidence": null,
+    "evidence_verified": false,
+    "risk": "unknown",
+    "reason": "CDN destination alone does not establish data-sharing practices.",
+    "method": "none",
+    "hits": 3,
+    "domains_seen": [
+      "d123.cloudfront.net"
+    ]
+  },
+  {
+    "registrable": "unknown-sdk.example",
+    "company": "unknown-sdk.example",
+    "category": "unknown",
+    "country": null,
+    "policy_url": null,
+    "sells_or_shares_data": null,
+    "evidence": null,
+    "evidence_verified": false,
+    "risk": "unknown",
+    "reason": "No verified vendor or policy information in this illustrative sample.",
+    "method": "none",
+    "hits": 2,
+    "domains_seen": [
+      "collector.unknown-sdk.example"
+    ]
+  },
+  {
+    "registrable": "api.myapp.com",
+    "company": "App's own domain",
+    "category": "first-party",
+    "country": null,
+    "policy_url": null,
+    "sells_or_shares_data": null,
+    "evidence": null,
+    "evidence_verified": false,
+    "risk": "low",
+    "reason": "App's own domain; investigation skipped.",
+    "method": "none",
+    "hits": 7,
+    "domains_seen": [
+      "api.myapp.com"
+    ]
+  }
+]
